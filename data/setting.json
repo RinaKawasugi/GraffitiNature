@@ -1,0 +1,52 @@
+{
+	"pattrstorage" : 	{
+		"name" : "setting",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"Floor_depth(mm)" : [ 5000 ],
+					"Floor_width(mm)" : [ 5000 ],
+					"Wall_A(mm)" : [ 0 ],
+					"Wall_B(mm)" : [ 0 ],
+					"Wall_C(mm)" : [ 0 ],
+					"Wall_D(mm)" : [ 0 ],
+					"SP_depth" : [ 3 ],
+					"SP_width" : [ 3 ],
+					"SP_Range" : [ 0.25 ],
+					"shutdown_Time" : [ 24.0 ],
+					"shutdown_mode" : [ 0.0 ],
+					"Vol_BGM" : [ -41.85567 ],
+					"Vol_actionpaint" : [ -70.0 ],
+					"Vol_eating" : [ -70.0 ],
+					"Vol_clone" : [ -69.401575 ],
+					"Vol_catch" : [ -70.0 ],
+					"speaker_mode" : [ 1.0 ],
+					"x_coordinate" : [ 0.0 ],
+					"y_coordinate" : [ 0.0 ],
+					"Port_number" : [ 10000 ],
+					"BGM_Sync" : [ 0.0 ],
+					"BGM_send_IP-1" : [ 0 ],
+					"BGM_send_Port-1" : [ 0 ],
+					"BGM_receive_Port" : [ 0 ],
+					"BGM_send_IP-2" : [ 0 ],
+					"BGM_send_Port-2" : [ 0 ],
+					"SP_sum" : [ 9 ],
+					"dac_num" : [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 ],
+					"bpatcher_AudioStatus::Driver" : [ "Core", "Audio" ],
+					"bpatcher_AudioStatus::Output_Device" : [ "Built-in", "Output" ],
+					"bpatcher_AudioStatus::Input_Device" : [ "Built-in", "Microphone" ],
+					"bpatcher_AudioStatus::Sampling_Rate" : [ 48000 ],
+					"bpatcher_AudioStatus::Signal_Vector_Size" : [ 512 ],
+					"bpatcher_AudioStatus::I/O_Vector_Size" : [ 512 ],
+					"bpatcher_AudioStatus::Scheduler_in_OverDrive" : [ "On" ],
+					"bpatcher_AudioStatus::Audio_Interrupt" : [ "On" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
